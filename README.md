@@ -1,6 +1,18 @@
-# 💫 About Me:
-<h2>A passionate self-taught Full Stack Web Developer</h2><br><br>🔭 I’m currently working on something cool<br><br>🌱 I’m currently learning Next.js<br><br>👨‍💻 All of my projects are available at [coming soon…]<br><br>💬 Ask me about anything relating to my field, I'm glad to help<br><br>📫 How to reach me, okaforchristian08@gmail.com<br><br>📄 Know about my experiences [coming soon...]
+<h1 align="left">Hi there, I'm Christian Okafor 👋</h1>
+<h3 align="left">Self-taught Full Stack Web Developer and HTML Email Developer</h3>
+<img align="right" alt="coding_gif" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
+- 🔭 I’m currently working on **on something cool**
+
+- 🌱 I’m currently learning **Next.js**
+
+- 👨‍💻 All of my projects are available at **[coming soon..]**
+
+- 💬 Ask me about **anything relating to my field, I'm glad to help**
+
+- 📫 How to reach me, **okaforchristian08@gmail.com**
+
+- 📄 Know about my experiences **[coming soon..]**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/christian-okafor-6176ab228) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/okaforc39500007) 
