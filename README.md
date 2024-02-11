@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **anything relating to my field, I'm glad to help**
 
-- 📫 How to reach me, **okaforchristian08@gmail.com**
+- 📫 How to reach me, **christianokafor.dev@gmail.com**
 
 - 📄 Know about my experiences **[coming soon..]**
 
