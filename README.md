@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at **bit.ly/01chrisportfolio**
+- 👨‍💻 All of my projects are available at [**bit.ly/01chrisportfolio**](https://bit.ly/01chrisportfolio)
 
 - 💬 Ask me about **anything relating to my field, I'm glad to help**
 
 - 📫 How to reach me, **christianokafor.dev@gmail.com**
 
-- 📄 Know about my experiences **bit.ly/01chrisportfolio**
+- 📄 Know about my experiences [bit.ly/01chrisportfolio](https://bit.ly/01chrisportfolio)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-okafor-6176ab228) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/chrisDev99) 
