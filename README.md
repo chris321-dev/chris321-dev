@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [**bit.ly/01chrisportfolio**](https://bit.ly/01chrisportfolio)
+- 👨‍💻 All of my projects are available at [bit.ly/01chrisportfolio](https://bit.ly/01chrisportfolio)
 
 - 💬 Ask me about **anything relating to my field, I'm glad to help**
 
